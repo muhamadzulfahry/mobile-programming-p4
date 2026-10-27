@@ -24,5 +24,5 @@ Tugas Praktikum Mobile Programming: Struktur Project & Komponen Dasar (View, Tex
 ## Tangkapan Layar (Screenshot)
 
 <p align="center">
-  <img src="./assets/screenshot.png" alt="Tampilan Aplikasi Diary App" width="300"/>
+  <img src="./assets/screenshot2.png" alt="Tampilan Aplikasi Diary App" width="300"/>
 </p>
